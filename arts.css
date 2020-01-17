@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    background-image: url("./resources/pattern.jpeg");
+    height: 130px;
+    color: Khaki;
+}
+div.green {
+    background-color: #7FFF07;
+    font-size: 30px;
+    color: white;
+}
+div.crimson {
+    color: white;
+    font-size: 30px;
+    background-color:crimson;
+}
+div.blue {
+    color:white;
+    font-size:30px;
+    background-color:#00CED1;
+}
+p {
+    font-weight: bold;
+}
+span.pricetag {
+    color:blue;
+    marigin: 0;
+}
+* {
+    margin: 20px auto;
+}
